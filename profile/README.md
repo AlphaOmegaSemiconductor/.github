@@ -27,7 +27,7 @@ Our products are utilized in various applications, including:
 
 For more information, visit our [official website](https://www.aosmd.com/).
 
-Stay updated with our latest developments by following us on GitHub and exploring our repositories.
+<> Stay updated with our latest developments by following us on GitHub and exploring our repositories.
 
 ---
 
