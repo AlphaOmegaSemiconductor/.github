@@ -1,4 +1,3 @@
-```markdown
 # Welcome to Alpha & Omega Semiconductor (AOS)
 
 **Alpha & Omega Semiconductor Limited (AOS)** is a global designer, developer, and supplier of a broad range of power semiconductors. Our extensive product portfolio includes:
@@ -33,7 +32,3 @@ Stay updated with our latest developments by following us on GitHub and explorin
 ---
 
 *Optimizing product performance and cost by integrating our expertise in technology, design, and advanced packaging.*
-
-```
-
-This README provides an overview of AOS's core competencies, mission, and application areas, offering visitors a concise introduction to the company. 
